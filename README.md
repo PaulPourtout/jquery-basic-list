@@ -1,5 +1,7 @@
 # jquery-basic-list
 
+You can see the web page [here](https://paulpourtout.github.io/jquery-basic-list/).
+
 ### 1. Afficher les données ci-dessus sous forme de liste dans une page html.
 
 ### Vous devez utilisez la librairie jQuery :
